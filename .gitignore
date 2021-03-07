@@ -1,6 +1,8 @@
 # File reports
 reports/
 
+# Files Idea Pychar
+.idea/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
